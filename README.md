@@ -130,5 +130,5 @@ Developed as an AI/ML academic project for Crop Yield Prediction.
 
 ## 🔮 Sample Prediction Output
 
-![Prediction Result](static/output.png)
+![Prediction Result](static/Screenshot 2026-02-07 130240.png)
 
