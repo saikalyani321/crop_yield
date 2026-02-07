@@ -126,4 +126,9 @@ Developed as an AI/ML academic project for Crop Yield Prediction.
 💡 Future Improvements:
 - Add weather API integration  
 - Deploy on cloud (AWS/Render/Heroku)  
-- Add visualization dashboard  
+- Add visualization dashboard
+
+## 🔮 Sample Prediction Output
+
+![Prediction Result](static/output.png)
+
